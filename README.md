@@ -3,10 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Rafael+F+Santos;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Internet+Systems;Be+Welcome!!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelfsnT&show_icons=true&count_private=true&hide_border=true&title_color=7F00FF&icon_color=4D4DFF&text_color=c9d1d9&bg_color=0d1117" alt="Rafael F Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfsnT&layout=compact&hide_border=true&title_color=7F00FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelfsnT&bg_color=0d1117&color=7F00FF&line=468ab4&point=22ecec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
